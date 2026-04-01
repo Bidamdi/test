@@ -1,4 +1,4 @@
-﻿using nsLogPrinter;
+using nsLogPrinter;
 
 namespace CheckingDriveSpace
 {
@@ -6,6 +6,7 @@ namespace CheckingDriveSpace
     {
         /// <summary>
         /// bytes 단위로 변환하기 위한 상수. 1GB = 1024 * 1024 * 1024 bytes
+        /// 테스트테스트
         /// </summary>
         private const long _bytesPerGB = 1024 * 1024 * 1024;
 
